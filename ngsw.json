@@ -1,0 +1,112 @@
+{
+  "configVersion": 1,
+  "timestamp": 1595251684217,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/3-es5.55f9efc2c20f932b8dcf.js",
+        "/4-es2015.a4a2235cb31ce3447988.js",
+        "/4-es5.e20dde51c0e486bfc933.js",
+        "/5-es2015.78197b54108cee2c0329.js",
+        "/firebase-messaging-sw.js",
+        "/index.html",
+        "/main-es2015.535bc801ee9b7e795280.js",
+        "/main-es5.be0a48ead42e21d51297.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.f891b17cb56897aeaf9a.js",
+        "/polyfills-es5.e524c761b8e89ae95f2c.js",
+        "/runtime-es2015.1f129b57ee67bad9b8be.js",
+        "/runtime-es5.2971b3b96477b6f92f92.js",
+        "/scripts.73044918ee32c6bef440.js",
+        "/styles.7d5ed5aa83aba245b3b4.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/arrow2.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/fontawesome-webfont.674f50d287a8c48dc19b.eot",
+        "/fontawesome-webfont.912ec66d7572ff821749.svg",
+        "/fontawesome-webfont.af7ae505a9eed503f8b8.woff2",
+        "/fontawesome-webfont.b06871f281fee6b241d6.ttf",
+        "/fontawesome-webfont.fee66e712a8a08eef580.woff",
+        "/sort_asc.9326ad44ae4bebdedd14.png",
+        "/sort_asc_disabled.d7dc10c78f23615d3285.png",
+        "/sort_both.9a6486086d09bb38cf66.png",
+        "/sort_desc.1fc418e33fd5a6872902.png",
+        "/sort_desc_disabled.bda51e15154a18257b4f.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/3-es5.55f9efc2c20f932b8dcf.js": "b2c8d9a0119ba7963cce0dd939e5d893144dd1b7",
+    "/4-es2015.a4a2235cb31ce3447988.js": "3b4123b78d1f9f07adfb05f131f4ba0cfc137302",
+    "/4-es5.e20dde51c0e486bfc933.js": "2db6b79113ad4168feee084e724fcac2a763972d",
+    "/5-es2015.78197b54108cee2c0329.js": "61d35685047175ee77835c815478a32ca96a2393",
+    "/assets/icons/arrow2.png": "38af8d287731deb1afbe5e4636d135cffaa0678b",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/firebase-messaging-sw.js": "cdd67b1a133f05bc5392c5dab03646a086fe1a98",
+    "/fontawesome-webfont.674f50d287a8c48dc19b.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "/fontawesome-webfont.912ec66d7572ff821749.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/index.html": "bc3965be6e414f55da8f5b6780259d3a52d6948a",
+    "/main-es2015.535bc801ee9b7e795280.js": "4fa118965b4741386b66b0925cc2c82c9dfc8ee1",
+    "/main-es5.be0a48ead42e21d51297.js": "daf219ae5f96828d39a8af89a452c56cc5fbebce",
+    "/manifest.webmanifest": "eed146029e0e908c0aa37aa704abada46c924a2e",
+    "/polyfills-es2015.f891b17cb56897aeaf9a.js": "ae7538b614884921eb49523efa7e75b0d6b93865",
+    "/polyfills-es5.e524c761b8e89ae95f2c.js": "5f321111cf231b36d1ed89dcde33e83e82a40fd7",
+    "/runtime-es2015.1f129b57ee67bad9b8be.js": "dc99d24dc8b72dd5d08377a02bc5a446842cfdfc",
+    "/runtime-es5.2971b3b96477b6f92f92.js": "fd9d9763d03b0b2cb7dcc6371b549c028c723426",
+    "/scripts.73044918ee32c6bef440.js": "01990338638f0f6528bba810d8179a81a3f4e6e1",
+    "/sort_asc.9326ad44ae4bebdedd14.png": "4ed7eba22e4258db81fd79761ed5fc6d00c7dab7",
+    "/sort_asc_disabled.d7dc10c78f23615d3285.png": "ae170a833b6f5d6344570061c60291b5b45e6004",
+    "/sort_both.9a6486086d09bb38cf66.png": "96e499eff491eac39508e1696686712df94108aa",
+    "/sort_desc.1fc418e33fd5a6872902.png": "5d17b4a1cd4c5d92df1adc190a9292674e2a3ab0",
+    "/sort_desc_disabled.bda51e15154a18257b4f.png": "960aafb94a313744af3b6b5cfaced54024a429bf",
+    "/styles.7d5ed5aa83aba245b3b4.css": "6d04e19331537ae1c352e1933d2fd3e28a7097a9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
